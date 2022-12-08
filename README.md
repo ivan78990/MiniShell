@@ -12,9 +12,9 @@
 ## Project:
 
 **Parsing**
-
-        2. The separations
+        
         1. Pipes
+        2. The separations
         3. Command and arguments
         4. Protections
         5. The <,>, >> redirects
