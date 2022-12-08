@@ -9,7 +9,7 @@
                 -The term macro processor means functionality where text and symbols are expanded to create larger expressions.
                 -A Unix shell is both a command interpreter and a programming language. 
 
-## This Project Majerly Include :open_file_folder: ##
+## Project:
 
 **Parsing**
 
